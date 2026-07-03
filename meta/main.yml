@@ -1,10 +1,10 @@
 ---
 galaxy_info:
   role_name: nftables
-  namespace: securcom
+  namespace: hudecof
   author: Peter Hudec
   description: nftables managment
-  company: securCom, s.r.o.
+  company: 5ok, s.r.o.
   license: BSD
   min_ansible_version: 2.4
   platforms:
